@@ -76,8 +76,8 @@ Documentation::
 
 Tests::
 
+  * core: replace Travis CI by GitHub Actions
   * core: run tests on plugins only if the plugins are enabled and compiled
-  * core: switch to Ubuntu Bionic on Travis CI, use pylint3 to lint Python scripts
   * irc: add tests on IRC color functions
 
 Build::
